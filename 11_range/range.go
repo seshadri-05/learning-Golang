@@ -18,6 +18,9 @@ func main() {
 		fmt.Println(k, v)
 	} */
 
+
+	
+
 	// unicode code
 	for i, c := range "Golang" {
 		fmt.Println(i, string(c))

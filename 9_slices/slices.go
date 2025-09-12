@@ -49,6 +49,8 @@ func main() {
 
 	fmt.Println(slices.Equal(nums1, nums2))
 
+	
+
 	// 2D slices
 	var nums3 = [][]int{{1, 2, 3}, {4, 5, 6}}
 	fmt.Println(nums3)
